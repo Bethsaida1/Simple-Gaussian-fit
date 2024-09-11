@@ -1,0 +1,3 @@
+#Energy - Amplitud - DELTAamplitud - mu(channel) - DELTAmu - Sigma - DELTAsigma - Number of counts - Name of the file
+
+1173.4752 9200.0953 36.3817 6824.8279 0.0142 4.3772 0.0108 100942.889 1.24 File:pico1.txt 
